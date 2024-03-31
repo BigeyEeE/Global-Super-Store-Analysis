@@ -43,7 +43,7 @@ The dataset used for analysis is stored in CSV format within the data directory.
 The analysis of the Global Super Store dataset is performed using DAX (Data Analysis Expressions) functions. DAX functions are used to calculate metrics such as revenue and margin. The analysis covers various aspects of the business, including sales trends, regional performance, and profitability.
 
 
-![Banner Image]()
+![Banner Image](https://github.com/BigeyEeE/Global-Super-Store-Analysis/blob/main/GLOBAL%20SALE%20ANALYSIS.jpg?raw=true)
 
 ## Visualizations
 
